@@ -29,3 +29,15 @@ connection_string = "driver={something};server=my-server;database=my_database;"
 max_tries = 20
 ```
 
+## Stuff to do
+
+* Run individual files rather than just folders
+* Better error handling
+* Exclude folders or files
+* Tests
+* Docs
+* Support for anything other than ODBC
+* Stop rerunning files that haven't changed
+* Check definition on server before running?
+* Nicer interface
+* Identify interdependencies instead of brute forcing it
